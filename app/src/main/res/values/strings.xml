@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">S.S</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="welcome_text">ShoeStore fashionable, comfort, and trendy footwear Brand,\n with a quality and affordable prices, aims to inspire with the latest fashion trends.\n Encompassing a distinct contemporary and modem style,\n providing a large variety of ladies shoes and bags. \n Each collection illustrates our commitment to balancing essential pieces with the season\'s iconic trends, \n always maintaining a focus on wear ability, quality and style.</string>
+    <string name="ss">S.S</string>
+    <string name="instructions">Feel free to navigate the list until you find the shoes you like \nthan tap it to show Shoe Details(avilible sizes, price , prand , etc) and order it \n also there is a floating plus button at the end of screen in shoe list in case you want to sell your own products in our app</string>
+    <string name="best_store_text">#1 Shoe store</string>
+    <string name="shoe_details_text">Shoes Details</string>
+    <string name="manufacture_word">Manufacture :</string>
+    <string name="name">Name :</string>
+    <string name="size_word">Size :</string>
+    <string name="color_text">Color :</string>
+    <string name="price_text">Price :</string>
+    <string name="save_word">Save</string>
+    <string name="shoes_image_description_text">Shoes Image</string>
+    <string name="cancel_word">Cancel</string>
+    <string name="add_shoe_to_list">Add Shoe to list</string>
+    <string name="logout_text">Logout</string>
+    <string name="buy_text">Buy</string>
+</resources>
