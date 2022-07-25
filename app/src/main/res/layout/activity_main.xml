@@ -6,7 +6,7 @@
         android:id="@+id/drawerLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
+        <!--Linear layout as it will only host the fragments -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"

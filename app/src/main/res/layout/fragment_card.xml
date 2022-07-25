@@ -5,6 +5,7 @@
             name="fragment"
             type="com.example.ss.CardFragment" />
     </data>
+    <!--Linear Layout to set the views of card in a Vertical way-->
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

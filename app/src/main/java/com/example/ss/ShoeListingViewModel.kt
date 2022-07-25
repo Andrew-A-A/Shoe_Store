@@ -28,8 +28,11 @@ class ShoeListingViewModel : ViewModel() {
         _shoeList.value= (_shoeList.value?.plus(s6) ?: mutableListOf(s1)) as MutableList<Shoes>?
     }
     //Function that add new Shoes to the Live Data list
-    fun addToList(name: String,size: Int, manufacture: String, color: String, price: Int){
-        val newShoes=Shoes(name,size,R.drawable.air_max,manufacture,color,price)
+//    fun addToList(name: String,size: Int, manufacture: String, color: String, price: Int){
+//        val newShoes=Shoes(name,size,R.drawable.air_max,manufacture,color,price)
+//        _shoeList.value= (_shoeList.value?.plus(newShoes) ?: mutableListOf(newShoes)) as MutableList<Shoes>?
+//    }
+        fun addToList(newShoes: Shoes){
         _shoeList.value= (_shoeList.value?.plus(newShoes) ?: mutableListOf(newShoes)) as MutableList<Shoes>?
     }
 
